@@ -1,0 +1,6 @@
+/dataset/
+/Multiclass.model/
+Xtrain.pickle
+Xtest.pickle
+ytrain.pickle
+ytest.pickle
